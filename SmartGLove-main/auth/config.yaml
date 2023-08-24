@@ -1,0 +1,18 @@
+credentials:
+  usernames:
+    test123:
+      email: tstsub@gmail.com
+      name: Test Subject 1
+      password: '$2b$12$8G.U/RmNIZDV5nmCo22.SuyosgZ3uu29KH1wfAnSjta6wUw4/FScW'
+    manan1907:
+      email: manan1907@gmail.com
+      name: Manan Chathli
+      password: '$2b$12$sezJFcOkkOnz6uED1DwP7Oni/9pbPRSaLy2zKTVeCposWQbZFTmtW'
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+preauthorized:
+  emails:
+  - melsby@gmail.com
+
